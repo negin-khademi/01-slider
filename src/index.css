@@ -281,11 +281,13 @@ ul {
 
 .name {
   text-transform: uppercase;
-  color: var(--primary-200);
+  color: var(--primary-500);
   margin-bottom: 0.75rem;
 }
 .title {
   text-transform: capitalize;
+  color: var(--grey-700);
+  margin-bottom: 0.75rem;
 }
 
 .text {
@@ -343,6 +345,9 @@ ul {
   }
 }
 
+.next-slide {
+  transform: translateX(100%);
+}
 /* ============= Slick Carousel =============== */
 
 .slick-container {
