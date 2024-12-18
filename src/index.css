@@ -358,7 +358,7 @@ ul {
   text-align: center;
 }
 .slick-slide img {
-  display: inline-block;
+  display: inline-block !important;
 }
 
 .slick-prev::before {
