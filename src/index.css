@@ -284,6 +284,9 @@ ul {
   color: var(--primary-200);
   margin-bottom: 0.75rem;
 }
+.title {
+  text-transform: capitalize;
+}
 
 .text {
   max-width: 35em;
